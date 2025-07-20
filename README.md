@@ -1,6 +1,6 @@
 👻 Room 404 🎮
 
-Ghost in the House is a first-person horror game built in Unreal Engine. The player explores a haunted house while evading a ghost, collecting keys, and managing stamina to survive and escape.
+Room 404 is a first-person horror game built in Unreal Engine. The player explores a haunted house while evading a ghost, collecting keys, and managing stamina to survive and escape.
 
 📌 Features
 Ghost AI:
